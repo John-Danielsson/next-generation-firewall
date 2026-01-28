@@ -9,7 +9,26 @@ This architecture implements a low-cost Azure-based NGFW using forced routing, n
 
 ## Threat Model
 
+Assets
+- Azure Virtual Network
+- Azure Ubuntu VM
 
+Threat Actors
+- Opportunistic scanners/bots
+- Cyber criminals
+- Misconfigured internal systems
+
+Threats
+- Data exfiltration
+- Unauthorized access
+- Lateral movement
+- Port scanning
+
+Mitigations
+- Forced routing
+- Firewall rules
+- Network segmentation
+- Logging and alerting
 
 ## Firewall Rule Table
 
