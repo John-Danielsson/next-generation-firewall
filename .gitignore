@@ -1,5 +1,5 @@
 # Azure SSH keys
-vm-ngfw-key.pem
+*.pem
 
 # JSON files
 params.json
