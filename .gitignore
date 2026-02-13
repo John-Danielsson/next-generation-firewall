@@ -1,5 +1,8 @@
-# Azure SSH key
+# Azure SSH keys
 vm-ngfw-key.pem
+
+# JSON files
+params.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
